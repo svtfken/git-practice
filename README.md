@@ -1,5 +1,5 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-git-practiceで編集
+mainで編集(conflict)
 
 
